@@ -14,7 +14,7 @@
 
 //********************Wifi********************//
 const char* ssid = "Hotspot";
-const char* password = "ambanikuta";
+const char* password = "New";
 //********************Wifi********************//
 
 //********************EEPROM********************//
@@ -24,7 +24,7 @@ const char* password = "ambanikuta";
 //********************Email Settings********************//
 #define emailSenderAccount    "maskdispensergndec@gmail.com"
 #define emailSenderPassword   "m@skd1spenser"
-#define emailRecipient        "jagmeettakkar.33@gmail.com"
+#define emailRecipient        "chitvan049.33@gmail.com"
 #define smtpServer            "smtp.gmail.com"
 #define smtpServerPort        465
 #define emailSubject          "[Mask Dispenser] Notification"
